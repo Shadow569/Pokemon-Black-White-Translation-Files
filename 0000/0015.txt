@@ -1462,9 +1462,9 @@ The foe’s \xf000ā\x0001\x0000 used\xfffeErekibooru!
 \xf000ā\x0001\x0000 used\xfffeMizubitashi!
 The wild \xf000ā\x0001\x0000 used\xfffeMizubitashi!
 The foe’s \xf000ā\x0001\x0000 used\xfffeMizubitashi!
-\xf000ā\x0001\x0000 used\xfffeNitorochaaji!
-The wild \xf000ā\x0001\x0000 used\xfffeNitorochaaji!
-The foe’s \xf000ā\x0001\x0000 used\xfffeNitorochaaji!
+\xf000ā\x0001\x0000 used\xfffeNitrocharge!
+The wild \xf000ā\x0001\x0000 used\xfffeNitrocharge!
+The foe’s \xf000ā\x0001\x0000 used\xfffeNitrocharge!
 \xf000ā\x0001\x0000 used\xfffeTogurowomaku!
 The wild \xf000ā\x0001\x0000 used\xfffeTogurowomaku!
 The foe’s \xf000ā\x0001\x0000 used\xfffeTogurowomaku!
