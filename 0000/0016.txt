@@ -22,9 +22,9 @@ The foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!\xfffeare not very effec
 \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xfffe\xf000Ă\x0001\x0002!are not very effective...
 The wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xfffe\xf000Ă\x0001\x0002!are not very effective...
 The foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xfffe\xf000Ă\x0001\x0002!are not very effective...
-However, \xf000Ă\x0001\x0000's attack\xfffedidn't land well!
-However, the wild \xf000Ă\x0001\x0000's attack\xfffedidn't land well!
-However, the foe's \xf000Ă\x0001\x0000's attack\xfffedidn't land well!
+\xf000Ă\x0001\x0000's attack\xfffeMissed!
+The wild \xf000Ă\x0001\x0000's attack\xfffeMissed!
+The foe's \xf000Ă\x0001\x0000's attack\xfffeMissed!
 \xf000Ă\x0001\x0000's\xfffeAttack rose!
 The wild \xf000Ă\x0001\x0000's\xfffeAttack rose!
 The foe's \xf000Ă\x0001\x0000's\xfffeAttack rose!
