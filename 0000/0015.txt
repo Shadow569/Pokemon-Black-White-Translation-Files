@@ -1534,9 +1534,9 @@ The foe’s \xf000ā\x0001\x0000 used\xfffeYakitsukusu!
 \xf000ā\x0001\x0000 used\xfffeSakiokuri!
 The wild \xf000ā\x0001\x0000 used\xfffeSakiokuri!
 The foe’s \xf000ā\x0001\x0000 used\xfffeSakiokuri!
-\xf000ā\x0001\x0000 used\xfffeAkurobatto!
-The wild \xf000ā\x0001\x0000 used\xfffeAkurobatto!
-The foe’s \xf000ā\x0001\x0000 used\xfffeAkurobatto!
+\xf000ā\x0001\x0000 used\xfffeAcrobat!
+The wild \xf000ā\x0001\x0000 used\xfffeAcrobat!
+The foe’s \xf000ā\x0001\x0000 used\xfffeAcrobat!
 \xf000ā\x0001\x0000 used\xfffeMiraataipu!
 The wild \xf000ā\x0001\x0000 used\xfffeMiraataipu!
 The foe’s \xf000ā\x0001\x0000 used\xfffeMiraataipu!
